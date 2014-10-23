@@ -1,0 +1,152 @@
+{
+  "entry": [
+    {
+      "aboutMe": "games pro * theorist * relentless producer of ideas * #gamedesign * #gamedev * #ux * #webdev * for the money i hang out with @ukmusicjobs and the gang\n\ni am into design and workings of systems and development of tools and platforms aimed at facilitating and supporting individuals/studios in management, production, marketing and promotion of their projects and ideas regardless of scope or nature\n\nat the moment i am deeply buried in number of more or less serious dev/design projects for the Facebook platform aimed at teenagers, students and indeed anyone who have some interest in music industry and considers possibility of entering this industry.",
+      "accounts": [
+        {
+          "display": "rafal.szulczewski",
+          "domain": "facebook.com",
+          "shortname": "facebook",
+          "url": "http://www.facebook.com/rafal.szulczewski",
+          "username": "rafal.szulczewski",
+          "verified": "true"
+        },
+        {
+          "display": "rafszul",
+          "domain": "flickr.com",
+          "shortname": "flickr",
+          "url": "http://www.flickr.com/people/rafszul/",
+          "username": "rafszul",
+          "verified": "true"
+        },
+        {
+          "display": "plus.google.com",
+          "domain": "plus.google.com",
+          "shortname": "google",
+          "url": "https://plus.google.com/104760924580889997130",
+          "userid": "104760924580889997130",
+          "verified": "true"
+        },
+        {
+          "display": "linkedin.com",
+          "domain": "linkedin.com",
+          "shortname": "linkedin",
+          "url": "http://www.linkedin.com/pub/rafal-szulczewski/19/749/611",
+          "username": "linkedin.com",
+          "verified": "true"
+        },
+        {
+          "display": "chunkofasphalt",
+          "domain": "tumblr.com",
+          "shortname": "tumblr",
+          "url": "http://chunkofasphalt.tumblr.com/",
+          "username": "chunkofasphalt",
+          "verified": "true"
+        },
+        {
+          "display": "@rafszul",
+          "domain": "twitter.com",
+          "shortname": "twitter",
+          "url": "http://twitter.com/rafszul",
+          "username": "rafszul",
+          "verified": "true"
+        },
+        {
+          "display": "user9547470",
+          "domain": "vimeo.com",
+          "shortname": "vimeo",
+          "url": "http://vimeo.com/user9547470",
+          "username": "user9547470",
+          "verified": "true"
+        },
+        {
+          "display": "noviceappmetablog.wordpress.com",
+          "domain": "noviceappmetablog.wordpress.com",
+          "shortname": "wordpress",
+          "url": "http://noviceappmetablog.wordpress.com/",
+          "username": "noviceappmetablog.wordpress.com",
+          "verified": "true"
+        },
+        {
+          "display": "rafszul",
+          "domain": "youtube.com",
+          "shortname": "youtube",
+          "url": "http://www.youtube.com/user/rafszul",
+          "username": "rafszul",
+          "verified": "true"
+        }
+      ],
+      "currency": [
+      ],
+      "currentLocation": "london, uk",
+      "displayName": "@rafszul",
+      "emails": [
+        {
+          "primary": "true",
+          "value": "rafszul@gmail.com"
+        }
+      ],
+      "hash": "a5d7f69c32c0640b8b366582120ae931",
+      "id": "8286962",
+      "name": {
+        "familyName": "szulczewski",
+        "formatted": "rafal szulczewski",
+        "givenName": "rafal"
+      },
+      "photos": [
+        {
+          "type": "thumbnail",
+          "value": "http://0.gravatar.com/avatar/a5d7f69c32c0640b8b366582120ae931"
+        }
+      ],
+      "preferredUsername": "rafszul",
+      "profileBackground": {
+        "color": "#050505",
+        "position": "left",
+        "repeat": "repeat",
+        "url": "https://secure.gravatar.com/bg/8286962/571e4ac46f537166751f717da9c0f52c"
+      },
+      "profileUrl": "http://gravatar.com/rafszul",
+      "requestHash": "rafszul",
+      "thumbnailUrl": "http://0.gravatar.com/avatar/a5d7f69c32c0640b8b366582120ae931",
+      "urls": [
+        {
+          "title": "digital substance abuse - lite",
+          "value": "http://digital-substance-lite.tumblr.com/"
+        },
+        {
+          "title": "a chunk of asphalt",
+          "value": "http://chunkofasphalt.tumblr.com/"
+        },
+        {
+          "title": "tram depot residents project",
+          "value": "http://thedepotresidentsproject.businesscatalyst.com/"
+        },
+        {
+          "title": "uxMonkeys",
+          "value": "http://Link URL..3uxmonkeys.businesscatalyst.com/"
+        },
+        {
+          "title": "impertinent creations",
+          "value": "http://impertinentcreations.com/"
+        },
+        {
+          "title": "weAreThePlayMakers.com",
+          "value": "http://wearetheplaymakers.com/"
+        },
+        {
+          "title": "//ecce homo",
+          "value": "http://eccehomo.biz/"
+        },
+        {
+          "title": "diasporachangemakers.net",
+          "value": "http://diasporachangemakers.net/"
+        },
+        {
+          "title": "#bleach_v16_62",
+          "value": "http://bleachv1662.businesscatalyst.com/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+	"name": "wATPMLogo.ai",
+	"width": 430,
+	"height": 161,
+	"layers": [
+		{
+			"x": "247.73",
+			"y": "21.86",
+			"r": "400.06",
+			"b": "135.61",
+			"width": "152.33",
+			"height": "113.75",
+			"layername": "wATPMLogoBannerRed.jpg",
+			"name": "wATPMLogoBannerRed",
+			"type": "jpg",
+			"filename": "wATPMLogoBannerRed.jpg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1283.19",
+			"y": "478.73",
+			"r": "1700.83",
+			"b": "790.59",
+			"width": "417.64",
+			"height": "311.86",
+			"layername": "wATPMLogoBlack.jpg",
+			"name": "wATPMLogoBlack",
+			"type": "jpg",
+			"filename": "wATPMLogoBlack.jpg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1720.83",
+			"y": "478.73",
+			"r": "2138.48",
+			"b": "790.59",
+			"width": "417.65",
+			"height": "311.86",
+			"layername": "wATPMLogoGrey.jpg",
+			"name": "wATPMLogoGrey",
+			"type": "jpg",
+			"filename": "wATPMLogoGrey.jpg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "845.55",
+			"y": "478.73",
+			"r": "1263.19",
+			"b": "790.59",
+			"width": "417.64",
+			"height": "311.86",
+			"layername": "wATPMLogoRed.jpg",
+			"name": "wATPMLogoRed",
+			"type": "jpg",
+			"filename": "wATPMLogoRed.jpg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
